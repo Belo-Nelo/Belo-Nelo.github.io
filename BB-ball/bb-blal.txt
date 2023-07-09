@@ -1,0 +1,11 @@
+Chef Hat
+Sword
+Lock
+Cage
+Crown
+Goat Horns/Cat Ears
+
+Common, Rare, Epic, Legendary
+45, 35, 15, 5 - Common Crate
+
+Last Shooter - Final shots in game get percantage boost
